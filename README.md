@@ -1,5 +1,4 @@
-/*
- * The following code is the work of ADVAIT UKIDVE, student of MIT Institute of Design, India (Semester 6) as of the date of publishing.
+
  * OWNER: Advait A. Ukidve
  * WHO?: Industrial Design student
  * DATE OF PUBLISHING: 20 April 2019
