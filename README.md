@@ -2,18 +2,17 @@
  * OWNER: Advait A. Ukidve
  * WHO?: Industrial Design student
  * DATE OF PUBLISHING: 20 April 2019
- * PURPOSE: Classroom Project under the course title 'Technically Complex Product'
+ * PURPOSE: Classroom Project
  * 
- * VERSION NO: 1
- * VERSION HISTORY: None as of yet
+ * VERSION NO: 5
+ * UPDATE: Added ability to switch between modes with a potentiometer
  * 
  * I intend for the following code to be used, edited and played around with by anyone with genuine interest in the field 
  * without any restrictions whatsoever.
- * This wasn't written for commercial purposes but may be repurposed for such in the future, in which case the resultant code will be very clearly distinguishable from this one. 
- * So go ahead.
+ * This wasn't written for commercial purposes but may be repurposed for such in the future.
  * 
  * 
- * DESCRIPTION: The code is written as a software prototype for my unnamed minimalistic digital detoxification mobile phone, 
+ * DESCRIPTION: The code is written as a software prototype for my unnamed minimal mobile phone for smartphone rehabilitation therapy, 
  * a classroom project at Design School. The mobile phone retains all the core functionalities of a traditional 'mobile' telephone without 
  * integrating such features considered to be addictive. The aim is to encourage people to lift their heads up from the new 'idiot boxes' 
  * of the 21st century and indulge in their surroundings, thus in hippie toungue 'reclaiming their lives'. The phone allows for calling, SMS 
