@@ -7,8 +7,7 @@
  * VERSION NO: 5
  * UPDATE: Added ability to switch between modes with a potentiometer
  * 
- * I intend for the following code to be used, edited and played around with by anyone with genuine interest in the field 
- * without any restrictions whatsoever.
+ * I intend for the following code to be used, edited and played around with by anyone with genuine interest in the field without any restrictions whatsoever.
  * This wasn't written for commercial purposes but may be repurposed for such in the future.
  * 
  * 
@@ -16,8 +15,7 @@
  * a classroom project at Design School. The mobile phone retains all the core functionalities of a traditional 'mobile' telephone without 
  * integrating such features considered to be addictive. The aim is to encourage people to lift their heads up from the new 'idiot boxes' 
  * of the 21st century and indulge in their surroundings, thus in hippie toungue 'reclaiming their lives'. The phone allows for calling, SMS 
- * text messaging, checking the time, setting alarms and storing and playing music. For more information, visit my portfolio at
- * https://www.behance.net/advaitdoingthings
+ * text messaging, checking the time, setting alarms and storing and playing music.
  * 
  * 
  * COMPONENTS USED:
